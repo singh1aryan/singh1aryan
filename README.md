@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+SWE at Google | Full stack engineer
+
+- Join our community: https://nas.io/30dayscoding
+- Free resources: https://www.30dayscoding.com/
+
+Follow on socials: [Twitter](https://twitter.com/singh1aryan), [Linkedin](https://linkedin.com/in/singh1aryan), [Instagram](https://www.instagram.com/singh.aryan.45)
 <!--
 **singh1aryan/singh1aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
