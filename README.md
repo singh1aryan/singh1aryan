@@ -1,6 +1,4 @@
-### Hi there 👋
-
-SWE at Google | Full stack engineer
+## SWE at Google | Full stack engineer
 
 - Join weekly live classes in my [community](https://bit.ly/30dc-aryan)
 <!--
