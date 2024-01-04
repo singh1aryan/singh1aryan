@@ -1,6 +1,6 @@
 ## SWE at Google | Full stack engineer
 
-- Join weekly live classes in my [community](https://bit.ly/30dc-aryan)
+- Join weekly live classes in my [community](https://30dayscoding)
 <!--
 **singh1aryan/singh1aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
