@@ -1,6 +1,4 @@
-# Aryan Singh's Tech Blog
-
-## Aryan Singh
+# Aryan Singh
 
 Engineer, Creator, and Indie Hacker building products and sharing insights about Tech, AI, and Startups.
 
