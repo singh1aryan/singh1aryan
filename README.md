@@ -8,7 +8,7 @@ Engineer, Creator, and Indie Hacker building products and sharing insights about
 
 ### Launched
 
-- **[Coder Aryan](https://coderaryan.com), [My Instagram Page](https://instagram.com/singh.aryan.45), [Skillset Master](https://skillsetmaster.com), [30 Days Coding](https://30dayscoding.com), [Simple Investings](https://simpleinvestings.com), [Immigrant Job Help](https://immigrantjobhelp.com), **  
+- **[Coder Aryan](https://coderaryan.com), [My Instagram Page](https://instagram.com/singh.aryan.45), [Skillset Master](https://skillsetmaster.com), [30 Days Coding](https://30dayscoding.com), [Simple Investings](https://simpleinvestings.com), [Immigrant Job Help](https://immigrantjobhelp.com)**  
 
 ---
 
