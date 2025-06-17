@@ -4,25 +4,11 @@ Engineer, Creator, and Indie Hacker building products and sharing insights about
 
 ---
 
-## Currently Working On
+## Social media, Education companies, SaaS tools, Free resources
 
-### Launched
-
-- **[Coder Aryan](https://coderaryan.com), [My Instagram Page](https://instagram.com/singh.aryan.45), [Skillset Master](https://skillsetmaster.com), [30 Days Coding](https://30dayscoding.com), [Simple Investings](https://simpleinvestings.com), [Immigrant Job Help](https://immigrantjobhelp.com)**  
-
----
-
-### In Progress
-
-- **[Build in Minutes](https://buildinminutes.com), [Baby SaaS](https://babysaas.com), [Get AI News](https://getainews.com), [Get Startup News](https://getstartupnews.com), [Career Tools AI](https://careertoolsai.com)**  
+- Youtube channels: [Main](https://www.youtube.com/@singh1aryan/featured), [AI skills](https://www.youtube.com/@dailyaiskills/featured)
+- Instragram pages: [Main page](https://instagram.com/singh.aryan.45), [Immigrant page](https://instagram.com/immigrantjobhelp)
+- Education related: [Skillset Master](https://skillsetmaster.com), [30 Days Coding](https://30dayscoding.com), [Community](https://www.skool.com/usa-ca-jobs)
+- SaaS tools: [AI ads](https://www.instantaiads.com), [Viral headshot](https://www.viralheadshot.com), [Super thumbnail](https://www.superthumbnail.com)
 
 ---
-
-<!-- ## Background
-
-### Highlights
-
-- 👨‍💻 Previously Software Engineer at Google and Arrow Electronics  
-- 🎓 Computer Science at UMass  
-- 🚀 Tech Educator with 600k+ social media following  
--->
